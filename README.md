@@ -1,2 +1,2 @@
-# SowatRafi-CSE330-LAB
-I am storing my lab codes.
+# CSE330-LAB
+Here, I am storing my LAB codes.
